@@ -1,0 +1,15 @@
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 7\bin\Debug\net8.0\Atividade 7.exe
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 7\bin\Debug\net8.0\Atividade 7.deps.json
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 7\bin\Debug\net8.0\Atividade 7.runtimeconfig.json
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 7\bin\Debug\net8.0\Atividade 7.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 7\bin\Debug\net8.0\Atividade 7.pdb
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 7\obj\Debug\net8.0\Atividade 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 7\obj\Debug\net8.0\Atividade 7.AssemblyInfoInputs.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 7\obj\Debug\net8.0\Atividade 7.AssemblyInfo.cs
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 7\obj\Debug\net8.0\Atividade 7.csproj.CoreCompileInputs.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 7\obj\Debug\net8.0\Atividade 7.sourcelink.json
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 7\obj\Debug\net8.0\Atividade 7.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 7\obj\Debug\net8.0\refint\Atividade 7.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 7\obj\Debug\net8.0\Atividade 7.pdb
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 7\obj\Debug\net8.0\Atividade 7.genruntimeconfig.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 7\obj\Debug\net8.0\ref\Atividade 7.dll

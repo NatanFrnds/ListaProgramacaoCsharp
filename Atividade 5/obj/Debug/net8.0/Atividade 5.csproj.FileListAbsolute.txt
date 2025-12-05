@@ -12,3 +12,4 @@ C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 5\obj\Debug
 C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 5\obj\Debug\net8.0\Atividade 5.pdb
 C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 5\obj\Debug\net8.0\Atividade 5.genruntimeconfig.cache
 C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 5\obj\Debug\net8.0\ref\Atividade 5.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 5\obj\Debug\net8.0\Atividade 5.sourcelink.json
