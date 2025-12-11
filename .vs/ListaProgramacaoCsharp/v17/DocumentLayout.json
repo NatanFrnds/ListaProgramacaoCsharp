@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|Itens de Solu\u00E7\u00E3o{380A7511-A354-6D7A-0CC0-8FA1F1BA7B6C}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2BFAA2A-FBE8-477E-8D88-07ABFD284DE5}|Atividade19\\Atividade19.csproj|c:\\users\\aluno.senai.pjcn\\workspace\\listaprogramacaocsharp\\atividade19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E2BFAA2A-FBE8-477E-8D88-07ABFD284DE5}|Atividade19\\Atividade19.csproj|C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\atividade19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E2BFAA2A-FBE8-477E-8D88-07ABFD284DE5}|Atividade19\\Atividade19.csproj|solutionrelative:atividade19\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -39,11 +39,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "gitignore",
-              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\gitignore",
-              "RelativeDocumentMoniker": "gitignore",
-              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\gitignore",
-              "RelativeToolTip": "gitignore",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\.gitignore",
+              "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-12-11T00:42:47.011Z",
@@ -58,8 +58,7 @@
               "ToolTip": "C:\\Users\\aluno.senai.pjcn\\workspace\\ListaProgramacaoCsharp\\Atividade19\\Form1.cs [Projeto]",
               "RelativeToolTip": "Atividade19\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-11T00:32:58.732Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-12-11T00:32:58.732Z"
             },
             {
               "$type": "Document",
