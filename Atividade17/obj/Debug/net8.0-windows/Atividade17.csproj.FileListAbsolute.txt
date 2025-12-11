@@ -1,0 +1,17 @@
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\bin\Debug\net8.0-windows\Atividade17.exe
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\bin\Debug\net8.0-windows\Atividade17.deps.json
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\bin\Debug\net8.0-windows\Atividade17.runtimeconfig.json
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\bin\Debug\net8.0-windows\Atividade17.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\bin\Debug\net8.0-windows\Atividade17.pdb
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\obj\Debug\net8.0-windows\Atividade17.Form1.resources
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\obj\Debug\net8.0-windows\Atividade17.csproj.GenerateResource.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\obj\Debug\net8.0-windows\Atividade17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\obj\Debug\net8.0-windows\Atividade17.AssemblyInfoInputs.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\obj\Debug\net8.0-windows\Atividade17.AssemblyInfo.cs
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\obj\Debug\net8.0-windows\Atividade17.csproj.CoreCompileInputs.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\obj\Debug\net8.0-windows\Atividade17.sourcelink.json
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\obj\Debug\net8.0-windows\Atividade17.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\obj\Debug\net8.0-windows\refint\Atividade17.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\obj\Debug\net8.0-windows\Atividade17.pdb
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\obj\Debug\net8.0-windows\Atividade17.genruntimeconfig.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade17\obj\Debug\net8.0-windows\ref\Atividade17.dll

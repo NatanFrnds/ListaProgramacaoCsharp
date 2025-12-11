@@ -1,0 +1,17 @@
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\bin\Debug\net8.0-windows\Atividade 10.exe
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\bin\Debug\net8.0-windows\Atividade 10.deps.json
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\bin\Debug\net8.0-windows\Atividade 10.runtimeconfig.json
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\bin\Debug\net8.0-windows\Atividade 10.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\bin\Debug\net8.0-windows\Atividade 10.pdb
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\obj\Debug\net8.0-windows\Atividade_10.Form1.resources
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\obj\Debug\net8.0-windows\Atividade 10.csproj.GenerateResource.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\obj\Debug\net8.0-windows\Atividade 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\obj\Debug\net8.0-windows\Atividade 10.AssemblyInfoInputs.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\obj\Debug\net8.0-windows\Atividade 10.AssemblyInfo.cs
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\obj\Debug\net8.0-windows\Atividade 10.csproj.CoreCompileInputs.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\obj\Debug\net8.0-windows\Atividade 10.sourcelink.json
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\obj\Debug\net8.0-windows\Atividade 10.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\obj\Debug\net8.0-windows\refint\Atividade 10.dll
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\obj\Debug\net8.0-windows\Atividade 10.pdb
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\obj\Debug\net8.0-windows\Atividade 10.genruntimeconfig.cache
+C:\Users\aluno.senai.pjcn\workspace\ListaProgramacaoCsharp\Atividade 10\obj\Debug\net8.0-windows\ref\Atividade 10.dll
